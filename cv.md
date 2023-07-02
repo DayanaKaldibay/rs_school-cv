@@ -75,5 +75,3 @@ qqline(logx, col = 1, lwd = 2)
 - French - basic.
 
 
-
-
